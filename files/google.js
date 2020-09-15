@@ -2,7 +2,7 @@ var _gaq = _gaq || [];
 var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
 _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 _gaq.push(['_setAccount', 'UA-43957719-1']);
-_gaq.push(['_setDomainName', 'siruixie.com']);
+_gaq.push(['_setDomainName', 'zhenghehui.z5n0w.cn']);
 _gaq.push(['_setAllowLinker', true]);
 _gaq.push(['_trackPageview']);
 
